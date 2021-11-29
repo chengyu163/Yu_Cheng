@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Yu_Cheng/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Yu_Cheng/static/js/main.7ba36c5b.chunk.js",
-    "main.js.map": "/Yu_Cheng/static/js/main.7ba36c5b.chunk.js.map",
+    "main.css": "/Yu_Cheng/static/css/main.230cd370.chunk.css",
+    "main.js": "/Yu_Cheng/static/js/main.2f3ad475.chunk.js",
+    "main.js.map": "/Yu_Cheng/static/js/main.2f3ad475.chunk.js.map",
     "runtime-main.js": "/Yu_Cheng/static/js/runtime-main.c1451783.js",
     "runtime-main.js.map": "/Yu_Cheng/static/js/runtime-main.c1451783.js.map",
     "static/js/2.17183b8a.chunk.js": "/Yu_Cheng/static/js/2.17183b8a.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.f442b96e.chunk.js": "/Yu_Cheng/static/js/3.f442b96e.chunk.js",
     "static/js/3.f442b96e.chunk.js.map": "/Yu_Cheng/static/js/3.f442b96e.chunk.js.map",
     "index.html": "/Yu_Cheng/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Yu_Cheng/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.230cd370.chunk.css.map": "/Yu_Cheng/static/css/main.230cd370.chunk.css.map",
     "static/js/2.17183b8a.chunk.js.LICENSE.txt": "/Yu_Cheng/static/js/2.17183b8a.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Yu_Cheng/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c1451783.js",
     "static/js/2.17183b8a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.7ba36c5b.chunk.js"
+    "static/css/main.230cd370.chunk.css",
+    "static/js/main.2f3ad475.chunk.js"
   ]
 }
