@@ -1,0 +1,82 @@
+[
+ 
+  {
+    "_id": {
+      "$oid": "5c376cb51f6e4f1a959e342c"
+    },
+    "title": "P3D Ray Tracer",
+    "logoPath": "resources/images/portfolio/rayTracer.png",
+    "descriptionHTML": "<p>A ray tracer developed for the \"3D Programming\" course. It implements techniques such as nff models import, anti-aliasing, soft shadows, depth of field and acceleration by using an uniform grid.</p>",
+    "references":{
+      "title": "Website",
+      "items":
+        [
+            { 
+              "text": "GitHub Source Link",
+              "href": "https://github.com/chengyu163/3d-programming-project-raytracing-"
+            }
+        ]
+    }
+
+  },
+
+  {
+    "_id": {
+      "$oid": "5c376cb51f6e4f1a959e342c"
+    },
+    "title": "Evolution of Fairness in Scale-free networks",
+    "logoPath": "resources/images/portfolio/scale-free1.png",
+    "descriptionHTML": "<p>A library developed to analyze the fairness in a Scale free network through the play of the Ultimatum game. Here, we explore how would poor and rich nodes behave when facing the different TAX models in the network.</p>",
+    "references":{
+      "title": "Website",
+      "items":
+        [
+            { 
+              "text": "GitHub Source Link",
+              "href": "https://github.com/chengyu163/CRC/"
+            }
+        ]
+    }
+
+  },
+
+  {
+    "_id": {
+      "$oid": "5c376cb51f6e4f1a959e342c"
+    },
+    "title": "Data integration",
+    "logoPath": "resources/images/portfolio/pentaho.png",
+    "descriptionHTML": "<p>A project developed for data integration and analitics where, by using Pentaho softwares, we learned about data management, processing and integration processes, data warehousing, OLAP and ETL, data cleaning and others.  <br> </p>",
+    "references":{
+      "title": "Website",
+      "items":
+        [
+            { 
+              "text": "Not available"
+            }
+        ]
+    }
+
+  },
+
+  {
+    "_id": {
+      "$oid": "5c376cb51f6e4f1a959e342c"
+    },
+    "title": "Question classification (NLP)",
+    "logoPath": "resources/images/portfolio/NLP.jpg",
+    "descriptionHTML": "<p>A project developed for natural language processing where a model to address the topic of question classification is being created. </p>",
+    "references":{
+      "title": "Website",
+      "items":
+        [
+            { 
+              "text": "Github Source Link",
+              "href": "https://github.com/chengyu163/NLP"
+            }
+        ]
+    }
+
+  }
+
+]

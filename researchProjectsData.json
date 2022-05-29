@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "5c376cb51f6e4f1a959e342c"
+  },
+  "title": "IST",
+  "logoPath": "resources/images/publications/istLogo.png",
+  "references":{
+    "title": "Venue Publications",
+    "items":
+      [
+        { 
+          "text" : "Yu Cheng, Pedro Monteiro, Claudine Chaouiya. Attractor reachability estimation in logical models. Masters thesis, Instituto Superior Técnico, 2021.",
+          "href" : "https://fenix.tecnico.ulisboa.pt/cursos/meic-a/dissertacao/1691203502344679"
+        }
+      ] 
+  }
+}]
