@@ -50,9 +50,30 @@
     "references":{
       "title": "Website",
       "items":
+       [
+        { 
+          "text": "GitHub Source Link",
+          "href": "https://github.com/chengyu163/AID"
+        }
+       ]
+    }
+
+  },
+
+  {
+    "_id": {
+      "$oid": "5c376cb51f6e4f1a959e342c"
+    },
+    "title": "Question classification (NLP)",
+    "logoPath": "resources/images/portfolio/NLP.png",
+    "descriptionHTML": "<p>A project developed for natural language processing where a model to address the topic of question classification is being created. </p>",
+    "references":{
+      "title": "Website",
+      "items":
         [
             { 
-              "text": "Not available"
+              "text": "Github Source Link",
+              "href": "https://github.com/chengyu163/NLP"
             }
         ]
     }
@@ -63,16 +84,16 @@
     "_id": {
       "$oid": "5c376cb51f6e4f1a959e342c"
     },
-    "title": "Question classification (NLP)",
-    "logoPath": "resources/images/portfolio/NLP.jpg",
-    "descriptionHTML": "<p>A project developed for natural language processing where a model to address the topic of question classification is being created. </p>",
+    "title": "Analysis of Uber System Architecture",
+    "logoPath": "resources/images/portfolio/uber.png",
+    "descriptionHTML": "<p> Assignment for the Software Architecture course, where we did a analysis about the Uber driver application. In particular, we discover the transformation of uber system from a monolithic software architecture model to a service-oriented architecture, the challenges that Uber was facing when its business started to expand exponentially and, finally, the services/system that they implemented to address the scalability issue. <br> Image Source: https://www.geeksforgeeks.org/system-design-of-uber-app-uber-system-architecture/</p>",
     "references":{
       "title": "Website",
       "items":
         [
             { 
               "text": "Github Source Link",
-              "href": "https://github.com/chengyu163/NLP"
+              "href": "https://github.com/chengyu163/Software-Architecture-project"
             }
         ]
     }
