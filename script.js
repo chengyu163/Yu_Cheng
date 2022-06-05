@@ -20,18 +20,13 @@ $(document).ready(function(){ //after page load
 		// 	window.location.href = "#anchor_portfolio";
 		// 	clearInterval(backgroundTimer);
 		// },3000);
-	
-
+		
 		var lightColor = function(amount, originalColor){
 			// return originalColor;
 			var newColor = [];
 			for(var i=0; i<originalColor.length; i++){
-				if(isEasterEgged){
-					newColor[i] = Math.random()*255; 					 
-				}else{
 					currentComponent = (1 - amount)*originalColor[i] + amount*255;
 					newColor[i] = currentComponent; 					
-				}
 			}
 			return newColor;
 		}
@@ -322,9 +317,6 @@ $(document).ready(function(){ //after page load
 		//make background effect move a little in sin way
 		var backgroundEffectFunc = function(){
 			var frameRatioIncrement = 0.016;
-			if(isEasterEgged){
-				frameRatioIncrement = 0;
-			}
 			
 			var currI = 0;
 			backgroundTimer = window.setInterval(function(){ 
@@ -337,11 +329,6 @@ $(document).ready(function(){ //after page load
 				var newOffset = ratio*window.screen.height;
 
 				codeBackgroundDarkEffects.css("transform","translateY("+ parseFloat(-currentScroll+newOffset) +"px)");
-
-
-				if(isEasterEgged){
-					codeBackgroundDarkEffects.css("transform","translateX("+ parseFloat(Math.random()*100) +"px)");
-				}
 
 				if(codeBackgroundDarkEffects.is(":hidden")){
 					window.clearInterval(backgroundTimer);
