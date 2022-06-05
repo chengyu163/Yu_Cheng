@@ -11,7 +11,7 @@
     "_id": {
       "$oid": "5c376cb51f6e4f1a959e342c"
     },
-    "title": "INESC (2020.09 - 2021.11)",
+    "title": "INESC-ID (2020.09 - 2021.11)",
     "logoPath": "resources/images/workExperience/inescLogo.png",
     "descriptionHTML": "<p>Research developer from September 2020 to November 2021. I was responsible for: <br> 1) Designing, refactoring and implementing dedicated algorithms (as well as automated tests to ensure their correctness and to assess their performance).<br>2) Integrating implemented algorithms into the existing JAVA library (BioLQM: https://github.com/colomoto/bioLQM/commits/master).<br>3) Implementing interfaces for other applications (GINsim and COLOMOTO Interactive Notebook) which enable them to use the JAVA library (bioLQM).<br>4) Providing written reports that ease the continued improvement of the work.</p>"
   }
