@@ -1,9 +1,25 @@
 [
- 
   {
-    "_id": {
-      "$oid": "5c376cb51f6e4f1a959e342c"
-    },
+    "_id":  "1c376cb51f6e4f1a959e342c",
+    "title": "The Ark",
+    "logoPath": "resources/images/portfolio/Game.png",
+    "videoPath": "resources/videos/P3DGameTrailler_group11.mp4",
+    "descriptionHTML": "<p>A game developed in Unity 3D for the \"3D Programming\" course. It implements techniques such as ambient occlusion, depth of field, grain, bump mapping, enviromental mapping, lens flare.</p>",
+    "references":{
+      "title": "Website",
+      "items":
+        [
+            { 
+              "text": "Game unavailable due to the big size. Only report provided",
+              "href": "https://github.com/chengyu163/Unity_Game.git"
+            }
+        ]
+    }
+  },
+
+
+  {
+    "_id":  "0c376cb51f6e4f1a959e342c",
     "title": "P3D Ray Tracer",
     "logoPath": "resources/images/portfolio/rayTracer.png",
     "descriptionHTML": "<p>A ray tracer developed for the \"3D Programming\" course. It implements techniques such as nff models import, anti-aliasing, soft shadows, depth of field and acceleration by using an uniform grid.</p>",
@@ -21,9 +37,7 @@
   },
 
   {
-    "_id": {
-      "$oid": "5c376cb51f6e4f1a959e342c"
-    },
+    "_id":  "3c376cb51f6e4f1a959e342c",
     "title": "Evolution of Fairness in Scale-free networks",
     "logoPath": "resources/images/portfolio/scale-free1.png",
     "descriptionHTML": "<p>A library developed to analyze the fairness in a Scale free network through the play of the Ultimatum game. Here, we explore how would poor and rich nodes behave when facing the different TAX models in the network.</p>",
@@ -41,9 +55,7 @@
   },
 
   {
-    "_id": {
-      "$oid": "5c376cb51f6e4f1a959e342c"
-    },
+    "_id":  "5c376cb51f6e4f1a959e342c",
     "title": "Data integration",
     "logoPath": "resources/images/portfolio/pentaho.png",
     "descriptionHTML": "<p>A project developed for data integration and analitics where, by using Pentaho softwares, we learned about data management, processing and integration processes, data warehousing, OLAP and ETL, data cleaning and others.  <br> </p>",
@@ -61,9 +73,7 @@
   },
 
   {
-    "_id": {
-      "$oid": "5c376cb51f6e4f1a959e342c"
-    },
+    "_id":  "2c376cb51f6e4f1a959e342c",
     "title": "Question classification (NLP)",
     "logoPath": "resources/images/portfolio/NLP.png",
     "descriptionHTML": "<p>A project developed for natural language processing where a model to address the topic of question classification is being created. </p>",
@@ -81,12 +91,10 @@
   },
 
   {
-    "_id": {
-      "$oid": "5c376cb51f6e4f1a959e342c"
-    },
+    "_id":  "4c376cb51f6e4f1a959e342c",
     "title": "Analysis of Uber System Architecture",
     "logoPath": "resources/images/portfolio/uber.png",
-    "descriptionHTML": "<p> Assignment for the Software Architecture course, where we did a analysis about the Uber driver application. In particular, we discover the transformation of uber system from a monolithic software architecture model to a service-oriented architecture, the challenges that Uber was facing when its business started to expand exponentially and, finally, the services/system that they implemented to address the scalability issue. <br> Image Source: https://www.geeksforgeeks.org/system-design-of-uber-app-uber-system-architecture/</p>",
+    "descriptionHTML": "<p>Assignment for the Software Architecture course, where we did a analysis about the Uber driver application. In particular, we discover the transformation of uber system from a monolithic software architecture model to a service-oriented architecture, the challenges that Uber was facing when its business started to expand exponentially and, finally, the services/system that they implemented to address the scalability issue. <br> Image Source: https://www.geeksforgeeks.org/system-design-of-uber-app-uber-system-architecture/</p>",
     "references":{
       "title": "Website",
       "items":
