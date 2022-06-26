@@ -3,8 +3,8 @@
     "_id": {
       "$oid": "5c376cb51f6e4f1a959e342c"
     },
-    "title": "KLx (2022.01 - present)",
-    "logoPath": "resources/images/workExperience/KLx.png",
+    "title": "devoteam (2022.01 - present)",
+    "logoPath": "resources/images/workExperience/devoteam.png",
     "descriptionHTML": "<p>Software developer since January 2022. I was responsible for:     <br> 1) Developing and maintaining 2 applications: an online system that handles clearing and settlements of securities trade for shares and cash and an application that serves as a portal to exchange business information from and to banks.<br>2) Updating the Application Information Document of the corresponding application.<br>3) Working closely with Business Analysts and other members of the mainframe team.</p>"
   },
   {
